@@ -1,5 +1,11 @@
 # List of useful Library and Information Sciences RSS-Feeds
 
+`url_list.csv` contains only urls and makes it easier to import the data into your feed reader.
+
+`create_list.py` create `Readme.md`-File with input from `Readme_header.md` and the `urls` file of my [newsboat] RSS-Reader.
+
+
+
 | url                                                                                  | updated                       |   status | title                                                                          |
 |--------------------------------------------------------------------------------------|-------------------------------|----------|--------------------------------------------------------------------------------|
 | https://aibstudi.aib.it/gateway/plugin/WebFeedGatewayPlugin/rss2                     |                               |      200 | AIB studi                                                                      |
@@ -21,7 +27,7 @@
 | https://www.library-training.de/rss.php                                              |                               |      200 | library-training.de                                                            |
 | https://lisnews.org/rss.xml                                                          |                               |      200 | LISNews: - Since 1999                                                          |
 | https://www.o-bib.de/gateway/plugin/WebFeedGatewayPlugin/rss                         |                               |      200 | o-bib. Das offene Bibliotheksjournal / Herausgeber VDB                         |
-| http://jobs.openbiblio.eu/stellenangebote/feed/                                      | Tue, 05 Oct 2021 21:06:41 GMT |      301 | Stellenangebote – OpenBiblioJobs                                               |
+| http://jobs.openbiblio.eu/stellenangebote/feed/                                      | Wed, 06 Oct 2021 07:01:44 GMT |      301 | Stellenangebote – OpenBiblioJobs                                               |
 | https://www.tandfonline.com/feed/rss/wirs20                                          | Sat, 25 Sep 2021 10:18:31 GMT |      200 | tandf: Internet Reference Services Quarterly: Table of Contents                |
 | https://www.tandfonline.com/feed/rss/wccq20                                          | Thu, 23 Sep 2021 10:29:27 GMT |      200 | tandf: Cataloging & Classification Quarterly: Table of Contents                |
 | https://www.tandfonline.com/feed/rss/wcol20                                          | Wed, 08 Sep 2021 12:34:40 GMT |      200 | tandf: Collection Management: Table of Contents                                |
