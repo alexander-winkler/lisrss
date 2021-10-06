@@ -1,4 +1,4 @@
-# List of useful Library and Information Sciences RSS-Feeds
+# List of useful Library and Information Science RSS-Feeds
 
 `url_list.csv` contains only urls and makes it easier to import the data into your feed reader.
 
