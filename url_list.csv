@@ -9,6 +9,7 @@ https://www.degruyter.com/journalnewarticlerss/journals/bfup/bfup-overview.xml
 https://www.degruyter.com/journalnewarticlerss/journals/abitech/abitech-overview.xml
 https://www.degruyter.com/journalnewarticlerss/journals/iwp/iwp-overview.xml
 https://www.degruyter.com/journalnewarticlerss/journals/libr/libr-overview.xml
+https://portal.dnb.de/opac.atom?currentResultId=hsg+all+%22020%22%26any&method=search
 https://github.com/libreas.atom
 https://biblio.hypotheses.org/feed
 https://muse.jhu.edu/feeds/latest_articles?jid=334
@@ -18,6 +19,7 @@ https://www.library-training.de/rss.php
 https://lisnews.org/rss.xml
 https://www.o-bib.de/gateway/plugin/WebFeedGatewayPlugin/rss
 http://jobs.openbiblio.eu/stellenangebote/feed/
+http://eprints.rclis.org/cgi/latest_tool?output=RSS2
 https://www.tandfonline.com/feed/rss/wirs20
 https://www.tandfonline.com/feed/rss/wccq20
 https://www.tandfonline.com/feed/rss/wcol20
@@ -54,5 +56,6 @@ https://www.tandfonline.com/feed/rss/wref20
 https://www.tandfonline.com/feed/rss/usrv20
 https://www.tandfonline.com/feed/rss/wtsq20
 https://bibliothek.uni-halle.de/rss.de.php
+https://journals.ub.uni-heidelberg.de/index.php/ip/gateway/plugin/WebFeedGatewayPlugin/rss2
 https://bibliothecae.unibo.it/gateway/plugin/WebFeedGatewayPlugin/rss2
 https://www.vdb-online.org/wordpress/?feed=rss2
