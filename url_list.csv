@@ -1,3 +1,4 @@
+https://ag-openscience.de/feed/rss/
 https://aibstudi.aib.it/gateway/plugin/WebFeedGatewayPlugin/rss2
 https://americanlibrariesmagazine.org/feed/
 http://www.b-u-b.de/feed
@@ -17,6 +18,10 @@ https://dhandlib.org/feed/
 https://portal.dnb.de/opac.atom?currentResultId=hsg+all+%22020%22%26any&method=search
 https://www.emerald.com/insight/rss/0143-5124/latest
 https://github.com/libreas.atom
+https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/abitech.xml
+https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/bd.xml
+https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/bfup.xml
+https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/rest.xml
 https://edoc.hu-berlin.de/feed/rss_1.0/18452/49
 https://biblio.hypotheses.org/feed
 http://www.ijdc.net/gateway/plugin/WebFeedGatewayPlugin/rss2
@@ -76,3 +81,4 @@ https://www.vdb-online.org/wordpress/?feed=rss2
 https://asistdl.onlinelibrary.wiley.com/journal/23301643
 https://onlinelibrary.wiley.com/journal/14711842#
 https://asistdl.onlinelibrary.wiley.com/journal/23739223#
+https://cinquecentine.wordpress.com/feed/
