@@ -14,24 +14,25 @@ with open(path, 'r') as IN:
 lis_rss = []
 for r in tqdm.tqdm(rows):
     r = r.split()
-    try:
-        url = r[0]
-        if 'LIS' in r[1:]:
-            NewsFeed = feedparser.parse(url)
-            upd = NewsFeed.get('updated')
-            status = NewsFeed.get('status')
-            title = NewsFeed.get('feed').get('title')
-            lis_rss.append(
-                    {
-                        'url' : url,
-                        'updated' : upd,
-                        'status' : status,
-                        'title' : title
-                        }
-                    )
+    if len(r) > 0:
+        try:
+            url = r[0]
+            if 'LIS' in r[1:]:
+                NewsFeed = feedparser.parse(url)
+                upd = NewsFeed.get('updated')
+                status = NewsFeed.get('status')
+                title = NewsFeed.get('feed').get('title')
+                lis_rss.append(
+                        {
+                            'url' : url,
+                            'updated' : upd,
+                            'status' : status,
+                            'title' : title
+                            }
+                        )
 
-    except Exception as e:
-        print(e)
+        except Exception as e:
+            print(e)
 
 # Sort urls by domain
 
