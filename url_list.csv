@@ -2,6 +2,7 @@ https://crl.acrl.org/index.php/crl/gateway/plugin/WebFeedGatewayPlugin/atom
 https://ag-openscience.de/feed/rss/
 https://aibstudi.aib.it/gateway/plugin/WebFeedGatewayPlugin/rss2
 https://americanlibrariesmagazine.org/feed/
+https://www.b-i-t-online.de/bitrss.xml
 http://www.b-u-b.de/feed
 https://bausteine-fdm.de/gateway/plugin/WebFeedGatewayPlugin/rss2
 https://bibliothecaire.net/?feed=rss
@@ -16,6 +17,7 @@ https://www.emerald.com/insight/rss/0143-5124/latest
 https://www.erudit.org/fr/revues/cjalib/rss.xml
 https://www.erudit.org/fr/revues/cjils/rss.xml
 https://www.erudit.org/fr/revues/documentation/rss.xml
+https://feeds.feedburner.com/c4lj
 https://github.com/libreas.atom
 https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/abitech.xml
 https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/opis.xml
@@ -34,6 +36,7 @@ https://www.informedlibrarian.com/rss/ilo.xml
 https://muse.jhu.edu/feeds/latest_articles?jid=334
 https://www.jlis.it/gateway/plugin/WebFeedGatewayPlugin/atom
 https://www.liberquarterly.eu/gateway/plugin/WebFeedGatewayPlugin/rss2/
+https://www.libess.de/feed/
 http://www.librarianshipstudies.com/feeds/posts/default
 https://www.library-training.de/rss.php
 https://lisnews.org/rss.xml
@@ -42,6 +45,7 @@ https://www.o-bib.de/gateway/plugin/WebFeedGatewayPlugin/rss
 http://jobs.openbiblio.eu/stellenangebote/feed/
 https://journals3.library.oregonstate.edu/olaq/gateway/plugin/WebFeedGatewayPlugin/rss
 https://0277.pubpub.org/rss.xml
+http://www.qqml.net/index.php/qqml/gateway/plugin/WebFeedGatewayPlugin/rss
 http://eprints.rclis.org/cgi/latest_tool?output=RSS2
 https://rss.sciencedirect.com/publication/science/00991333
 https://rss.sciencedirect.com/publication/science/07408188
@@ -87,6 +91,7 @@ https://bibliothek.uni-halle.de/rss.de.php
 https://journals.sub.uni-hamburg.de/hup3/apimagazin/gateway/plugin/WebFeedGatewayPlugin/rss2
 https://journals.ub.uni-heidelberg.de/index.php/ip/gateway/plugin/WebFeedGatewayPlugin/rss2
 https://bibliothecae.unibo.it/gateway/plugin/WebFeedGatewayPlugin/rss2
+https://yis.univie.ac.at/index.php/yis/gateway/plugin/WebFeedGatewayPlugin/rss
 https://www.vdb-online.org/wordpress/?feed=rss2
 https://asistdl.onlinelibrary.wiley.com/journal/23301643
 https://asistdl.onlinelibrary.wiley.com/journal/23739223
